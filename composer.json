@@ -1,0 +1,12 @@
+{
+    "name": "callda/example",
+    "license": "WTFPL",
+    "type": "project",
+    "description": "Example project",
+    "autoload": {
+        "psr-0": { "": "vendor/" }
+    },
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
